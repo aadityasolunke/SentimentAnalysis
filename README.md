@@ -19,9 +19,10 @@ This is a simple Streamlit web app that analyzes the sentiment of user-written p
 - Pandas
 
 ## 📦 Setup Locally
+reiveww.py is the main file 
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/aadityasolunke/SentimentAnalysis.git
+cd https://github.com/aadityasolunke/SentimentAnalysis.git
 pip install -r requirements.txt
 streamlit run vader_streamlit_app.py
